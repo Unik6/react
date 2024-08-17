@@ -1,2 +1,2 @@
-# reac
+# react
 react-native
